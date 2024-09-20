@@ -17,12 +17,3 @@ You will have a url something like this.
 ```
 mongodb+srv://<username>:<password>@cluster0.n0kingo.mongodb.net/test
 ```
-You can use this in your MongoClient (in python) to connect to the database in the server.
-
-If you have any questions or suggestions, feel free to contact the project contributors:
-
-- Onteddu Chaitanya Reddy - chaitanyareddy0702@gmail.com
-- Illa Dinesh Kumar - idineshkumar12321@gmail.com
-- Guttula Pavan - pavanguttula123@gmail.com
-- Pillalamarri Akshaya - akshayapillalamarri213@gmail.com
--  Anirudh Edpugnati - aniedpuganti@gmail.com
